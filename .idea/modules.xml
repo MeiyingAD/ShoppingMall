@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ShoppingMall.iml" filepath="$PROJECT_DIR$/.idea/modules/ShoppingMall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FlycoTabLayout_Lib/ShoppingMall.FlycoTabLayout_Lib.iml" filepath="$PROJECT_DIR$/.idea/modules/FlycoTabLayout_Lib/ShoppingMall.FlycoTabLayout_Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FlycoTabLayout_Lib/ShoppingMall.FlycoTabLayout_Lib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/FlycoTabLayout_Lib/ShoppingMall.FlycoTabLayout_Lib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FlycoTabLayout_Lib/ShoppingMall.FlycoTabLayout_Lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FlycoTabLayout_Lib/ShoppingMall.FlycoTabLayout_Lib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FlycoTabLayout_Lib/ShoppingMall.FlycoTabLayout_Lib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/FlycoTabLayout_Lib/ShoppingMall.FlycoTabLayout_Lib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ViewPagerIndicator_library/ShoppingMall.ViewPagerIndicator_library.iml" filepath="$PROJECT_DIR$/.idea/modules/ViewPagerIndicator_library/ShoppingMall.ViewPagerIndicator_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ViewPagerIndicator_library/ShoppingMall.ViewPagerIndicator_library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ViewPagerIndicator_library/ShoppingMall.ViewPagerIndicator_library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ViewPagerIndicator_library/ShoppingMall.ViewPagerIndicator_library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ViewPagerIndicator_library/ShoppingMall.ViewPagerIndicator_library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ViewPagerIndicator_library/ShoppingMall.ViewPagerIndicator_library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ViewPagerIndicator_library/ShoppingMall.ViewPagerIndicator_library.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShoppingMall.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShoppingMall.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShoppingMall.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShoppingMall.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShoppingMall.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShoppingMall.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ShoppingMall.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ShoppingMall.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/banner/ShoppingMall.banner.iml" filepath="$PROJECT_DIR$/.idea/modules/banner/ShoppingMall.banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/banner/ShoppingMall.banner.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/banner/ShoppingMall.banner.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/banner/ShoppingMall.banner.main.iml" filepath="$PROJECT_DIR$/.idea/modules/banner/ShoppingMall.banner.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/banner/ShoppingMall.banner.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/banner/ShoppingMall.banner.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/okhttputils/ShoppingMall.okhttputils.iml" filepath="$PROJECT_DIR$/.idea/modules/okhttputils/ShoppingMall.okhttputils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/okhttputils/ShoppingMall.okhttputils.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/okhttputils/ShoppingMall.okhttputils.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/okhttputils/ShoppingMall.okhttputils.main.iml" filepath="$PROJECT_DIR$/.idea/modules/okhttputils/ShoppingMall.okhttputils.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/okhttputils/ShoppingMall.okhttputils.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/okhttputils/ShoppingMall.okhttputils.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opendanmaku/ShoppingMall.opendanmaku.iml" filepath="$PROJECT_DIR$/.idea/modules/opendanmaku/ShoppingMall.opendanmaku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opendanmaku/ShoppingMall.opendanmaku.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/opendanmaku/ShoppingMall.opendanmaku.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opendanmaku/ShoppingMall.opendanmaku.main.iml" filepath="$PROJECT_DIR$/.idea/modules/opendanmaku/ShoppingMall.opendanmaku.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opendanmaku/ShoppingMall.opendanmaku.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/opendanmaku/ShoppingMall.opendanmaku.unitTest.iml" />
+    </modules>
+  </component>
+</project>
